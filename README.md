@@ -12,16 +12,20 @@ The data below contains the outcome from my analysis.
   
   ![June Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20Summary%20Table.png)
   
-     - June Weather visualized
-  
-  ![June plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20plt.png)
+  -The low temperated in June is 64 degrees. Summer will bring an influx of customers who want to enjoy their summer vacation. THis is cooler but decent weather.
   
  - <b>December:</b> The average temperate in Oahu during the month of December is 71 degree fahrenheit.
  This is cooler than June; however, it is winter. This temperature will bring tourists to Oahu to escape the cold winter months of their home regions.
  
  ![Dec Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/Dec%20Temps%20Summary%20Table.png)
  
-     - December Weather visualized 
+ - The low typerature in Decmeber is 56. This temperature may cause a dip in sales of ice cream and surfing. The shop could sell/ rent wetsuits that keep customer warm in the Hawaiian winters. IF this is advertised properly, a dip in surf sales could be prevented. 
 
-   ![Dec plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/December%20Temps%20plt.png)
+## Summary
+
+THe temperature of Oahu is pretty even keeled year around. Based on our temperature data, it would be fair to say that a Surf shop would be well received. However, other data should be considered before moring forward. We should at parcipitation and wave reports. We should look at how much it rains during June and December. We could also look at wave conditions. These would be key in determining the success of the store. 
+ 
+
+   
+   
 
