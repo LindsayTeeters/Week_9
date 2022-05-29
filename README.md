@@ -16,9 +16,12 @@ The data below contains the outcome from my analysis.
   
   ![June plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20plt.png)
   
- -<b>December:</b> The average temperate in Oahu during the month of December is 71 degree fahrenheit.
+ - <b>December:</b> The average temperate in Oahu during the month of December is 71 degree fahrenheit.
  This is cooler than June; however, it is winter. This temperature will bring tourists to Oahu to escape the cold winter months of their home regions.
  
  ![Dec Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/Dec%20Temps%20Summary%20Table.png)
  
+  - December Weather Visualized 
+
+    ![Dec plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/December%20Temps%20plt.png)
 
