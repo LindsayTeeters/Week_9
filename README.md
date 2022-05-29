@@ -23,7 +23,7 @@ The data below contains the outcome from my analysis.
 
 ## Summary
 
-Tee temperature of Oahu is pretty even keeled year around. Based on our temperature data, it would be fair to say that a Surf shop would be well received. However, other data should be considered before moring forward. We should at parcipitation and wave reports. We should look at how much it rains during June and December. We could also look at wave conditions. These would be key in determining the success of the store. 
+The temperature of Oahu is pretty even keeled year around. Based on our temperature data, it would be fair to say that a Surf shop would be well received. However, other data should be considered before moring forward. We should at parcipitation and wave reports. We should look at how much it rains during June and December. We could also look at wave conditions. These would be key in determining the success of the store. 
  
 
    
