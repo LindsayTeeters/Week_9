@@ -19,7 +19,7 @@ The data below contains the outcome from my analysis.
  
    ![Dec Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/Dec%20Temps%20Summary%20Table.png)
  
- - The low typerature in Decmeber is 56. This temperature may cause a dip in sales of ice cream and surfing. The shop could sell/ rent wetsuits that keep customer warm in the Hawaiian winters. IF this is advertised properly, a dip in surf sales could be prevented. 
+  - The low typerature in Decmeber is 56. This temperature may cause a dip in sales of ice cream and surfing. The shop could sell/ rent wetsuits that keep customer warm in the Hawaiian winters. IF this is advertised properly, a dip in surf sales could be prevented. 
 
 ## Summary
 
