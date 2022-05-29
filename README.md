@@ -8,7 +8,7 @@ W. Avy wants to open up a surf shop on the island of Oahu. However, he needs hel
 
 The data below contains the outcome from my analysis.
 
-*<b>June:</b> The average temperate in Oahu during the month of June is a perfect 75 degrees fahrenheit.
+- <b>June:</b> The average temperate in Oahu during the month of June is a perfect 75 degrees fahrenheit.
   
   ![June Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20Summary%20Table.png)
   
