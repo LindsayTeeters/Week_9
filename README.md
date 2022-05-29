@@ -12,7 +12,7 @@ The data below contains the outcome from my analysis.
   
   ![June Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20Summary%20Table.png)
   
-   - June Weather visualized
+     - June Weather visualized
   
   ![June plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20plt.png)
   
@@ -21,7 +21,7 @@ The data below contains the outcome from my analysis.
  
  ![Dec Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/Dec%20Temps%20Summary%20Table.png)
  
-    - December Weather visualized 
+   - December Weather visualized 
 
     ![Dec plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/December%20Temps%20plt.png)
 
