@@ -10,14 +10,14 @@ The data below contains the outcome from my analysis.
 
 - <b>June:</b> The average temperate in Oahu during the month of June is a perfect 75 degrees fahrenheit.
   
-       ![June Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20Summary%20Table.png)
+  ![June Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20Summary%20Table.png)
   
   - The low temperated in June is 64 degrees. Summer will bring an influx of customers who want to enjoy their summer vacation. THis is cooler but decent weather.
   
  - <b>December:</b> The average temperate in Oahu during the month of December is 71 degree fahrenheit.
  This is cooler than June; however, it is winter. This temperature will bring tourists to Oahu to escape the cold winter months of their home regions.
  
-       ![Dec Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/Dec%20Temps%20Summary%20Table.png)
+   ![Dec Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/Dec%20Temps%20Summary%20Table.png)
  
  - The low typerature in Decmeber is 56. This temperature may cause a dip in sales of ice cream and surfing. The shop could sell/ rent wetsuits that keep customer warm in the Hawaiian winters. IF this is advertised properly, a dip in surf sales could be prevented. 
 
