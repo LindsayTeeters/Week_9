@@ -12,7 +12,7 @@ The data below contains the outcome from my analysis.
   
   ![June Table](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20Summary%20Table.png)
   
-  June Weather
+ - <b>June Weather visualized</b>
   
   ![June plt](https://github.com/LindsayTeeters/Week_9/blob/main/Resources/June%20Temps%20plt.png)
   
